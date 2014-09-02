@@ -14,6 +14,11 @@
     <input type="checkbox" name="hobby[]" value="Singing" />Singing
     <input type="checkbox" name="hobby[]" value="Painting" />Painting
 
+
+    <input type="radio" name="hobby" value="Cycling" />Cycling
+    <input type="radio" name="hobby" value="Singing" />Singing
+    <input type="radio" name="hobby" value="Painting" />Painting
+
     <input type="submit" value="Submit"/>
 </form>
 
