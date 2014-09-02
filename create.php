@@ -1,15 +1,19 @@
+<?php session_start(); ?>
 <!DOCTYPE html>
 <html>
 <head>
     <title>create</title>
 </head>
 <body>
-
+<div class="message">
+    <?php echo $_SESSION['message']; $_SESSION['message']=""; ?>
+</div>
 <form action="store.php" method="post" enctype="multipart/form-data">
 
     <label for="email">Email:</label>
     <input type="text" name="email" value="admin@admin.com" />
 
+   <!--
     <input type="checkbox" name="hobby[]" value="Cycling" />Cycling
     <input type="checkbox" name="hobby[]" value="Singing" />Singing
     <input type="checkbox" name="hobby[]" value="Painting" />Painting
@@ -38,6 +42,7 @@
     </select>
 
      <input type="file" name="aFile" />
+    -->
 
     <input type="submit" value="Submit"/>
 </form>

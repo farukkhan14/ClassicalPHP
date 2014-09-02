@@ -4,7 +4,6 @@
     <list default="true" id="944ca15e-802f-4033-af29-3843ccf9e26c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/create.php" afterPath="$PROJECT_DIR$/create.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/store.php" afterPath="$PROJECT_DIR$/store.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ClassicalPHP.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,21 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="create.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="create.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/create.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="37" selection-start="109" selection-end="109" vertical-scroll-proportion="0.1253482" vertical-offset="60" max-vertical-offset="765">
+            <state line="8" column="36" selection-start="155" selection-end="155" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="840">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="store.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="store.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/store.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="77" selection-end="77" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="645">
+            <state line="29" column="50" selection-start="413" selection-end="413" vertical-scroll-proportion="0.7910864" vertical-offset="151" max-vertical-offset="870">
               <folding>
-                <marker date="1409640342000" expanded="true" signature="455:501" placeholder="INSERT into ..." />
+                <marker date="1409642732000" expanded="true" signature="564:610" placeholder="INSERT into ..." />
               </folding>
             </state>
           </provider>
@@ -219,19 +218,19 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/store.php">
+    <entry file="file://$PROJECT_DIR$/create.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="77" selection-end="77" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="645">
-          <folding>
-            <marker date="1409640342000" expanded="true" signature="455:501" placeholder="INSERT into ..." />
-          </folding>
+        <state line="8" column="36" selection-start="155" selection-end="155" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="840">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/create.php">
+    <entry file="file://$PROJECT_DIR$/store.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="37" selection-start="109" selection-end="109" vertical-scroll-proportion="0.1253482" vertical-offset="60" max-vertical-offset="765">
-          <folding />
+        <state line="29" column="50" selection-start="413" selection-end="413" vertical-scroll-proportion="0.7910864" vertical-offset="151" max-vertical-offset="870">
+          <folding>
+            <marker date="1409642732000" expanded="true" signature="564:610" placeholder="INSERT into ..." />
+          </folding>
         </state>
       </provider>
     </entry>
